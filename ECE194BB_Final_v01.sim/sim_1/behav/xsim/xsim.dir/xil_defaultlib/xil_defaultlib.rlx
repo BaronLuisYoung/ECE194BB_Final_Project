@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Code/HDL_Projects/ECE194BB_Final_v01/ECE194BB_Final_v01.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
+C:/Code/HDL_Projects/ECE194BB_Final_v01/ECE194BB_Final_v01.srcs/sources_1/new/BRAM_TB.sv,1710197251,systemVerilog,C:/Code/HDL_Projects/ECE194BB_Final_v01/ECE194BB_Final_v01.srcs/sources_1/new/CPM.sv;C:/Code/HDL_Projects/ECE194BB_Final_v01/ECE194BB_Final_v01.srcs/sources_1/new/CPM_TB.sv,C:/Code/HDL_Projects/ECE194BB_Final_v01/ECE194BB_Final_v01.srcs/sources_1/new/CPM.sv,,$unit_BRAM_TB_sv_4261991885;bram,,uvm,,,,,,
+C:/Code/HDL_Projects/ECE194BB_Final_v01/ECE194BB_Final_v01.srcs/sources_1/new/CPM.sv,1710197236,systemVerilog,,C:/Code/HDL_Projects/ECE194BB_Final_v01/ECE194BB_Final_v01.srcs/sources_1/new/CPM_TB.sv,,CPM,,uvm,,,,,,
+C:/Code/HDL_Projects/ECE194BB_Final_v01/ECE194BB_Final_v01.srcs/sources_1/new/CPM_TB.sv,1710198251,systemVerilog,,,,cpm_tb,,uvm,,,,,,

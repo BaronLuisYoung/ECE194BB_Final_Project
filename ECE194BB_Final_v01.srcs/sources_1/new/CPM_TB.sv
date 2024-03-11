@@ -1,6 +1,6 @@
 /*
 *		TITLE: CPM testbench
-*		AUTHOR: Minh Bui @UCSB'W24
+*		AUTHOR: Baron Young @UCSB'W24
 *		DESCRIPTION: Testbench for command processor module (CPM) final project
 *   which reads from rom (written with tcl) and 2 gpio ports, and execute the command given by opcode
 *   then writes output to 1 of the 2 gpio ports
@@ -33,7 +33,7 @@ bram bram_i(
 	.bram_rd_data	(rom_rd_data)
 	);
 	
-DataPathFsm cpm(
+CPM cpm(
     .sys_clk_i(clk_tb),
     .clk_i (clk_fst),
     .reset_ni  (rst_n_tb),
